@@ -1,0 +1,18 @@
+{
+  "name": "bono-api-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesha <reekoheek@gmail.com> (http://sagara.id)",
+  "license": "MIT",
+  "dependencies": {
+    "bono": "^1.0.2",
+    "bono-norm": "^2.0.8",
+    "koa-static": "^5.0.0",
+    "node-norm": "^1.2.21"
+  }
+}
